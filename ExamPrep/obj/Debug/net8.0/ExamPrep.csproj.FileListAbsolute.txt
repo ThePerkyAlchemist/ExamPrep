@@ -1,0 +1,14 @@
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\bin\Debug\net8.0\ExamPrep.exe
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\bin\Debug\net8.0\ExamPrep.deps.json
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\bin\Debug\net8.0\ExamPrep.runtimeconfig.json
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\bin\Debug\net8.0\ExamPrep.dll
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\bin\Debug\net8.0\ExamPrep.pdb
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\obj\Debug\net8.0\ExamPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\obj\Debug\net8.0\ExamPrep.AssemblyInfoInputs.cache
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\obj\Debug\net8.0\ExamPrep.AssemblyInfo.cs
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\obj\Debug\net8.0\ExamPrep.csproj.CoreCompileInputs.cache
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\obj\Debug\net8.0\ExamPrep.dll
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\obj\Debug\net8.0\refint\ExamPrep.dll
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\obj\Debug\net8.0\ExamPrep.pdb
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\obj\Debug\net8.0\ExamPrep.genruntimeconfig.cache
+C:\Users\pierr\Documents\CBS\ExamPrep\ExamPrep\obj\Debug\net8.0\ref\ExamPrep.dll
